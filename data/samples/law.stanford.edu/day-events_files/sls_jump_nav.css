@@ -1,0 +1,17 @@
+.jump-navigation {
+    position: fixed;
+    right: 0px;
+    top: 600px;
+    left: inherit !important;
+
+}
+
+
+.jn-jump {
+    background: #b30000 !important;
+}
+
+.jn-sections {
+    left: 0px !important;
+}
+
